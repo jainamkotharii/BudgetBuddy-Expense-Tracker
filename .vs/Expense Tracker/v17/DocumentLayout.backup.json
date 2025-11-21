@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MAHI\\OneDrive\\Attachments\\Desktop\\BudgetBuddy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A73B68BA-37C6-4DAE-9A93-B01271FA9AD2}|Expense Tracker\\Expense Tracker.csproj|c:\\users\\mahi\\onedrive\\attachments\\desktop\\budgetbuddy\\expense tracker\\views\\profile\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A73B68BA-37C6-4DAE-9A93-B01271FA9AD2}|Expense Tracker\\Expense Tracker.csproj|solutionrelative:expense tracker\\views\\profile\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A73B68BA-37C6-4DAE-9A93-B01271FA9AD2}|Expense Tracker\\Expense Tracker.csproj|c:\\users\\mahi\\onedrive\\attachments\\desktop\\budgetbuddy\\expense tracker\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A73B68BA-37C6-4DAE-9A93-B01271FA9AD2}|Expense Tracker\\Expense Tracker.csproj|solutionrelative:expense tracker\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A73B68BA-37C6-4DAE-9A93-B01271FA9AD2}|Expense Tracker\\Expense Tracker.csproj|c:\\users\\mahi\\onedrive\\attachments\\desktop\\budgetbuddy\\expense tracker\\views\\shared\\_sidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A73B68BA-37C6-4DAE-9A93-B01271FA9AD2}|Expense Tracker\\Expense Tracker.csproj|solutionrelative:expense tracker\\views\\shared\\_sidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A73B68BA-37C6-4DAE-9A93-B01271FA9AD2}|Expense Tracker\\Expense Tracker.csproj|c:\\users\\mahi\\onedrive\\attachments\\desktop\\budgetbuddy\\expense tracker\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A73B68BA-37C6-4DAE-9A93-B01271FA9AD2}|Expense Tracker\\Expense Tracker.csproj|solutionrelative:expense tracker\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A73B68BA-37C6-4DAE-9A93-B01271FA9AD2}|Expense Tracker\\Expense Tracker.csproj|c:\\users\\mahi\\onedrive\\attachments\\desktop\\budgetbuddy\\expense tracker\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A73B68BA-37C6-4DAE-9A93-B01271FA9AD2}|Expense Tracker\\Expense Tracker.csproj|solutionrelative:expense tracker\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A73B68BA-37C6-4DAE-9A93-B01271FA9AD2}|Expense Tracker\\Expense Tracker.csproj|c:\\users\\mahi\\onedrive\\attachments\\desktop\\budgetbuddy\\expense tracker\\controllers\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A73B68BA-37C6-4DAE-9A93-B01271FA9AD2}|Expense Tracker\\Expense Tracker.csproj|solutionrelative:expense tracker\\controllers\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\MAHI\\OneDrive\\Attachments\\Desktop\\BudgetBuddy\\Expense Tracker\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Expense Tracker\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\MAHI\\OneDrive\\Attachments\\Desktop\\BudgetBuddy\\Expense Tracker\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Expense Tracker\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAABwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-05T04:38:09.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProfileController.cs",
+              "DocumentMoniker": "C:\\Users\\MAHI\\OneDrive\\Attachments\\Desktop\\BudgetBuddy\\Expense Tracker\\Controllers\\ProfileController.cs",
+              "RelativeDocumentMoniker": "Expense Tracker\\Controllers\\ProfileController.cs",
+              "ToolTip": "C:\\Users\\MAHI\\OneDrive\\Attachments\\Desktop\\BudgetBuddy\\Expense Tracker\\Controllers\\ProfileController.cs",
+              "RelativeToolTip": "Expense Tracker\\Controllers\\ProfileController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T04:37:36.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\MAHI\\OneDrive\\Attachments\\Desktop\\BudgetBuddy\\Expense Tracker\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "Expense Tracker\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\MAHI\\OneDrive\\Attachments\\Desktop\\BudgetBuddy\\Expense Tracker\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "Expense Tracker\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAF8BAAAAAAAAAAAAAF8BAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-11-05T04:36:12.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Profile.cshtml",
+              "DocumentMoniker": "C:\\Users\\MAHI\\OneDrive\\Attachments\\Desktop\\BudgetBuddy\\Expense Tracker\\Views\\Profile\\Profile.cshtml",
+              "RelativeDocumentMoniker": "Expense Tracker\\Views\\Profile\\Profile.cshtml",
+              "ToolTip": "C:\\Users\\MAHI\\OneDrive\\Attachments\\Desktop\\BudgetBuddy\\Expense Tracker\\Views\\Profile\\Profile.cshtml",
+              "RelativeToolTip": "Expense Tracker\\Views\\Profile\\Profile.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-05T04:29:39.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\MAHI\\OneDrive\\Attachments\\Desktop\\BudgetBuddy\\Expense Tracker\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "Expense Tracker\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\MAHI\\OneDrive\\Attachments\\Desktop\\BudgetBuddy\\Expense Tracker\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "Expense Tracker\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIMAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-05T03:20:30.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_SideBar.cshtml",
+              "DocumentMoniker": "C:\\Users\\MAHI\\OneDrive\\Attachments\\Desktop\\BudgetBuddy\\Expense Tracker\\Views\\Shared\\_SideBar.cshtml",
+              "RelativeDocumentMoniker": "Expense Tracker\\Views\\Shared\\_SideBar.cshtml",
+              "ToolTip": "C:\\Users\\MAHI\\OneDrive\\Attachments\\Desktop\\BudgetBuddy\\Expense Tracker\\Views\\Shared\\_SideBar.cshtml",
+              "RelativeToolTip": "Expense Tracker\\Views\\Shared\\_SideBar.cshtml",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAADQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-05T03:17:08.439Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

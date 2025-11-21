@@ -1,0 +1,38 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    ViewData["Title"] = "Profile";
+    Layout = "_Layout"; // make sure this matches your main layout file
+}
+
+<div class="container mt-5">
+    <div class="card bg-dark text-light shadow-lg p-4 mx-auto" style="max-width: 600px;">
+        <div class="text-center mb-4">
+            <img src="~/profile.jpg" class="rounded-circle mb-3" alt="Profile" width="100" height="100">
+            <h3>Profile</h3>
+        </div>
+
+        <form>
+            <div class="mb-3">
+                <label class="form-label">Full Name</label>
+                <input type="text" class="form-control bg-dark text-light border-secondary" value="Jainam Kothari">
+            </div>
+
+            <div class="mb-3">
+                <label class="form-label">Email Address</label>
+                <input type="email" class="form-control bg-dark text-light border-secondary" value="jainamk204@gmail.com">
+            </div>
+
+            <div class="mb-3">
+                <label class="form-label">Phone Number</label>
+                <input type="text" class="form-control bg-dark text-light border-secondary" value="+91 99795 38176">
+            </div>
+
+            <div class="d-flex justify-content-between">
+                <button type="submit" class="btn btn-success px-4">Save Changes</button>
+                <a href="/Dashboard" class="btn btn-outline-danger px-4">Logout</a>
+            </div>
+        </form>
+    </div>
+</div>
